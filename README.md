@@ -14,7 +14,7 @@ I'm a data enthusiast with a strong foundation in business analysis and a passio
 I’m currently focused on building a stronger portfolio, contributing to open-source projects, and preparing for my next professional opportunity in Canada.
 
 ## 📚 Projects  
-🚀 Welcome to my portfolio, where I showcase my [projects](https://github.com/sevgitc/Portfolio-Guide/main/README.md).
+🚀 Welcome to my portfolio, where I showcase my [projects](https://github.com/sevgitc/Portfolio-Guide).
 
 You'll find a mix of academic, professional, and personal work. Each project reflects my journey as a data enthusiast — from raw data to refined insights.
 
